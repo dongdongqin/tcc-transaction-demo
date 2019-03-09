@@ -1,0 +1,14 @@
+com/xxx/tcc/controller/DemoTccController.class
+com/xxx/tcc/domain/Product.class
+com/xxx/tcc/model/User.class
+com/xxx/tcc/domain/Order.class
+com/xxx/tcc/domain/Shop.class
+com/xxx/tcc/service/PaymentServiceImpl.class
+com/xxx/tcc/domain/OrderLine.class
+com/xxx/tcc/dao/UserDao.class
+com/xxx/tcc/service/CapitalTradeOrderServiceImpl.class
+com/xxx/tcc/service/CapitalTradeOrderServiceImpl2.class
+com/xxx/tcc/service/RedPacketTradeOrderServiceImpl.class
+com/xxx/tcc/config/DataSources2Config.class
+com/xxx/tcc/config/DataSources1Config.class
+com/xxx/tcc/DubboTCCApplication.class

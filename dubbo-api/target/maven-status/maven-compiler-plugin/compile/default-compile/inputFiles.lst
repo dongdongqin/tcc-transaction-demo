@@ -1,0 +1,16 @@
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-api/src/main/java/com/xxx/api/service/ValidationService.java
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-api/src/main/java/com/xxx/api/service/CapitalTradeOrderService.java
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-api/src/main/java/com/xxx/api/service/domain/Order.java
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-api/src/main/java/com/xxx/api/service/domain/Product.java
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-api/src/main/java/com/xxx/api/service/HelloService.java
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-api/src/main/java/com/xxx/api/service/domain/ValidationParameter.java
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-api/src/main/java/com/xxx/api/service/GreetingService.java
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-api/src/main/java/com/xxx/api/service/RedPacketAccountService.java
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-api/src/main/java/com/xxx/api/service/async/AsyncService.java
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-api/src/main/java/com/xxx/api/service/domain/OrderLine.java
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-api/src/main/java/com/xxx/api/service/DemoService.java
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-api/src/main/java/com/xxx/api/service/domain/Shop.java
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-api/src/main/java/com/xxx/api/service/domain/CapitalTradeOrderDto.java
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-api/src/main/java/com/xxx/api/service/RedPacketTradeOrderService.java
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-api/src/main/java/com/xxx/api/service/CapitalAccountService.java
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-api/src/main/java/com/xxx/api/service/domain/RedPacketTradeOrderDto.java

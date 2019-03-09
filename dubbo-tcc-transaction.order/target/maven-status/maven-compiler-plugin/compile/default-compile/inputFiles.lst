@@ -1,0 +1,14 @@
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-tcc-transaction.order/src/main/java/com/xxx/tcc/service/CapitalTradeOrderServiceImpl.java
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-tcc-transaction.order/src/main/java/com/xxx/tcc/service/RedPacketTradeOrderServiceImpl.java
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-tcc-transaction.order/src/main/java/com/xxx/tcc/model/User.java
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-tcc-transaction.order/src/main/java/com/xxx/tcc/config/DataSources2Config.java
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-tcc-transaction.order/src/main/java/com/xxx/tcc/service/CapitalTradeOrderServiceImpl2.java
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-tcc-transaction.order/src/main/java/com/xxx/tcc/domain/Order.java
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-tcc-transaction.order/src/main/java/com/xxx/tcc/domain/Product.java
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-tcc-transaction.order/src/main/java/com/xxx/tcc/service/PaymentServiceImpl.java
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-tcc-transaction.order/src/main/java/com/xxx/tcc/dao/UserDao.java
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-tcc-transaction.order/src/main/java/com/xxx/tcc/domain/OrderLine.java
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-tcc-transaction.order/src/main/java/com/xxx/tcc/controller/DemoTccController.java
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-tcc-transaction.order/src/main/java/com/xxx/tcc/domain/Shop.java
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-tcc-transaction.order/src/main/java/com/xxx/tcc/DubboTCCApplication.java
+/Users/dongdongqin/Downloads/dubbo-sample/dubbo-tcc-transaction.order/src/main/java/com/xxx/tcc/config/DataSources1Config.java
